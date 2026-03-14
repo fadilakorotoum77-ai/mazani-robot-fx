@@ -1,1 +1,5 @@
-pyTelegramBotAPI
+fastapi
+uvicorn
+httpx
+yfinance
+pandas
